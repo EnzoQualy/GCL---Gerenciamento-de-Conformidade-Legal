@@ -201,7 +201,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-**Enzo Qualy** - [EnzoQualy](https://github.com/EnzoQualy)
+**Enzo Oliveira - Estagiário de Nível Superior da Qualidade** - [EnzoQualy](https://github.com/EnzoQualy)
 
 ## 📞 Suporte
 
